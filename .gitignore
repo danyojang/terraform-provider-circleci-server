@@ -37,3 +37,9 @@ vendor/
 
 # GoReleaser
 dist/
+
+# GPG Keys (stored in ~/.keys/)
+gpg-private-key.asc
+gpg-public-key.asc
+gpg-key-config
+*.asc
